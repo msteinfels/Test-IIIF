@@ -1,0 +1,214 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msteinfels.github.io/Test IIIF/manifests/TestJSON.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Race at Uji Bridge",
+  "description" : "Japanese Maker- name one known, The Race at Uji Bridge, 1850-1900",
+  "metadata" : [ {
+    "label" : "Image Date",
+    "value" : "2023-10-09"
+  }, {
+    "label" : "Original filename",
+    "value" : "2023-15_001-23_cr.tif"
+  }, {
+    "label" : "Source",
+    "value" : [ {
+      "@value" : "Digital Camera",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Photographer",
+    "value" : "Sara Jamback"
+  }, {
+    "label" : "Pixel height",
+    "value" : "3631"
+  }, {
+    "label" : "Pixel width",
+    "value" : "4200"
+  }, {
+    "label" : "Color Space",
+    "value" : "Uncalibrated"
+  }, {
+    "label" : "MimeType",
+    "value" : "image/tiff"
+  }, {
+    "label" : "Photo Create Date",
+    "value" : "2023-10-09 11:41"
+  }, {
+    "label" : "md5checksum",
+    "value" : "8f0497f1d670722f3df08e58dfbd49ad"
+  }, {
+    "label" : "Rowchecksum",
+    "value" : "17375450"
+  }, {
+    "label" : "File Extension",
+    "value" : "tif"
+  }, {
+    "label" : "Object ID",
+    "value" : "79148"
+  }, {
+    "label" : "Object Number",
+    "value" : "2023.15"
+  }, {
+    "label" : "Object Name",
+    "value" : "Furniture"
+  }, {
+    "label" : "Artist/Maker",
+    "value" : "Unidentified Japanese maker"
+  }, {
+    "label" : "Date Label",
+    "value" : "1850-1900"
+  }, {
+    "label" : "Early Date Made",
+    "value" : "1850"
+  }, {
+    "label" : "Late Date Made",
+    "value" : "1900"
+  }, {
+    "label" : "Title",
+    "value" : "The Race at Uji Bridge"
+  }, {
+    "label" : "Research Area",
+    "value" : "Asia"
+  }, {
+    "label" : "Period",
+    "value" : "19th century"
+  }, {
+    "label" : "Geography",
+    "value" : "Place Made: Uji, Japan, East Asia, Asia"
+  }, {
+    "label" : "Medium",
+    "value" : "Mineral pigments on mulberry paper with a silk brocade border"
+  }, {
+    "label" : "Dimensions",
+    "value" : "Overall: 48 1/4 × 63 × 3/4 in. (122.6 × 160 × 1.9 cm)"
+  }, {
+    "label" : "Credit Line",
+    "value" : "Gift of Janice Abert,  Mount Holyoke College Class of 1982"
+  }, {
+    "label" : "Copyright Status",
+    "value" : "Public Domain"
+  }, {
+    "label" : "On web?",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Has Object Target",
+    "value" : [ {
+      "@value" : "No",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Image View",
+    "value" : [ {
+      "@value" : "Primary",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Available for Public Download",
+    "value" : [ {
+      "@value" : "Yes",
+      "@language" : "en"
+    } ]
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hood.resourcespace.com/iiif/image/101243/full/thm/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "height" : 151,
+    "width" : 175,
+    "format" : "image/jpeg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://hood.resourcespace.com/iiif/image/101243",
+      "profile" : "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "sequences" : [ {
+    "@id" : "https://hood.resourcespace.com/iiif/79148/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Default order",
+    "canvases" : [ {
+      "@id" : "https://hood.resourcespace.com/iiif/79148/canvas/0",
+      "@type" : "sc:Canvas",
+      "label" : "0",
+      "height" : 3631,
+      "width" : 4200,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/101243/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 151,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/101243",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/79148/annotation/0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/101243/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3631,
+          "width" : 4200,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/101243",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/79148/canvas/0"
+      } ]
+    }, {
+      "@id" : "https://hood.resourcespace.com/iiif/79148/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 3360,
+      "width" : 4200,
+      "thumbnail" : {
+        "@id" : "https://hood.resourcespace.com/iiif/image/101243/full/thm/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "height" : 140,
+        "width" : 175,
+        "format" : "image/jpeg",
+        "service" : {
+          "@context" : "http://iiif.io/api/image/2/context.json",
+          "@id" : "https://hood.resourcespace.com/iiif/image/101243",
+          "profile" : "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "https://hood.resourcespace.com/iiif/79148/annotation/1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hood.resourcespace.com/iiif/image/101243/full/max/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3360,
+          "width" : 4200,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hood.resourcespace.com/iiif/image/101243",
+            "profile" : "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "on" : "https://hood.resourcespace.com/iiif/79148/canvas/1"
+      } ]
+    } ]
+  } ]
+}
