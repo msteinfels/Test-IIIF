@@ -1,0 +1,13 @@
+{
+  "id" : "https://msteinfels.github.io/Test IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in msteinfels/Test-IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msteinfels.github.io/Test IIIF/manifests/TestJSON.json",
+    "label" : "The Race at Uji Bridge"
+  } ]
+}
